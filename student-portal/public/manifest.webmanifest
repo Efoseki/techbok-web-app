@@ -1,0 +1,9 @@
+{
+  "name": "TechBoK Student Portal",
+  "short_name": "TechBoK",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#153b63",
+  "description": "TechBoK Institute Management Platform"
+}
